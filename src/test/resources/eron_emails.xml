@@ -1,0 +1,135 @@
+	<Batch name=" Batch 1">
+		<Documents>
+			<Document DocID="3.212425.MORRVHVC5Y2FQMOP4LWHAOD45IMW45KXB" DocType="Message" MimeType="message/rfc822">
+				<Tags>
+					<Tag TagName="#From" TagDataType="Text" TagValue="Harry Arora"/>
+					<Tag TagName="#Subject" TagDataType="Text" TagValue="Allan Sommer"/>
+					<Tag TagName="#DateSent" TagDataType="DateTime" TagValue="2001-02-07T22:11:00.0+00:00"/>
+					<Tag TagName="#HasAttachments" TagDataType="Boolean" TagValue="false"/>
+					<Tag TagName="X-SDOC" TagDataType="Text" TagValue="528063"/>
+					<Tag TagName="X-ZLID" TagDataType="Text" TagValue="zl-edrm-enron-v2-arora-h-914.eml"/>
+				</Tags>
+				<Files>
+					<File FileType="Native">
+						<ExternalFile FilePath="native_000" FileName="3.212425.MORRVHVC5Y2FQMOP4LWHAOD45IMW45KXB.eml" FileSize="719" Hash="0C905BBD107C2E9CAF2F1A67743309CA"/>
+					</File>
+					<File FileType="Text">
+						<ExternalFile FilePath="text_000" FileName="3.212425.MORRVHVC5Y2FQMOP4LWHAOD45IMW45KXB.txt" FileSize="499" Hash="A37B83CBC1ABE91A69B9D8CBC21C7B32"/>
+					</File>
+				</Files>
+				<Locations>
+					<Location>
+						<Custodian>Harry Arora&lt;harry.d.arora@enron.com&gt;</Custodian>
+						<LocationURI>arora-h\&apos;sent mail</LocationURI>
+					</Location>
+				</Locations>
+			</Document>
+			<Document DocID="3.212426.KJ2YXICQ4SV5WKB0HOIIQB4DDGV3ZAEFB" DocType="Message" MimeType="message/rfc822">
+				<Tags>
+					<Tag TagName="#From" TagDataType="Text" TagValue="Harry Arora"/>
+					<Tag TagName="#Subject" TagDataType="Text" TagValue="DealBench Auction Control Room Meeting"/>
+					<Tag TagName="#To" TagDataType="Text" TagValue="Harry.Arora@enron.com" />
+
+					<Tag TagName="#DateSent" TagDataType="DateTime" TagValue="2001-01-16T15:03:00.0+00:00"/>
+					<Tag TagName="#HasAttachments" TagDataType="Boolean" TagValue="false"/>
+					<Tag TagName="X-SDOC" TagDataType="Text" TagValue="528065"/>
+					<Tag TagName="X-ZLID" TagDataType="Text" TagValue="zl-edrm-enron-v2-arora-h-916.eml"/>
+				</Tags>
+				<Files>
+					<File FileType="Native">
+						<ExternalFile FilePath="native_000" FileName="3.212426.KJ2YXICQ4SV5WKB0HOIIQB4DDGV3ZAEFB.eml" FileSize="746" Hash="FC43005C3956FC585540E3414415EC39"/>
+					</File>
+					<File FileType="Text">
+						<ExternalFile FilePath="text_000" FileName="3.212426.KJ2YXICQ4SV5WKB0HOIIQB4DDGV3ZAEFB.txt" FileSize="526" Hash="FD09F45631732311F5B603C024B23D73"/>
+					</File>
+				</Files>
+				<Locations>
+					<Location>
+						<Custodian>Harry Arora&lt;harry.d.arora@enron.com&gt;</Custodian>
+						<LocationURI>arora-h\&apos;sent mail</LocationURI>
+					</Location>
+				</Locations>
+			</Document>
+			<Document DocID="3.212452.MGDIEGALJK0C3FEAH4GAYDIBW3QIZ0WWA" DocType="Message" MimeType="message/rfc822">
+				<Tags>
+					<Tag TagName="#From" TagDataType="Text" TagValue="Suresh Raghavan"/>
+					<Tag TagName="#To" TagDataType="Text" TagValue="Harry Arora, Jeff Bartlett, Vanessa Carranza, Miguel Vasquez, donald.w.herrick@enron.com,
+	 Tobias Munk, Kristi Demaiolo, John Spitz, Ross Mesquita, Andrea Crump"/>
+					<Tag TagName="#Subject" TagDataType="Text" TagValue="Testing Script"/>
+					<Tag TagName="#DateSent" TagDataType="DateTime" TagValue="2000-12-04T12:53:00.0+00:00"/>
+					<Tag TagName="#HasAttachments" TagDataType="Boolean" TagValue="true"/>
+					<Tag TagName="#AttachmentCount" TagDataType="Integer" TagValue="1"/>
+					<Tag TagName="#AttachmentNames" TagDataType="Text" TagValue="Testing Script.doc"/>
+					<Tag TagName="X-SDOC" TagDataType="Text" TagValue="527405"/>
+					<Tag TagName="X-ZLID" TagDataType="Text" TagValue="zl-edrm-enron-v2-arora-h-288.eml"/>
+				</Tags>
+				<Files>
+					<File FileType="Native">
+						<ExternalFile FilePath="native_000" FileName="3.212452.MGDIEGALJK0C3FEAH4GAYDIBW3QIZ0WWA.eml" FileSize="41373" Hash="3DA1C00AF91F603A75CE49917DA74951"/>
+					</File>
+					<File FileType="Text">
+						<ExternalFile FilePath="text_000" FileName="3.212452.MGDIEGALJK0C3FEAH4GAYDIBW3QIZ0WWA.txt" FileSize="896" Hash="82AB2EDB550485FC86D8F449E55F364E"/>
+					</File>
+				</Files>
+				<Locations>
+					<Location>
+						<Custodian>Harry Arora&lt;harry.d.arora@enron.com&gt;</Custodian>
+						<LocationURI>arora-h\All documents</LocationURI>
+					</Location>
+				</Locations>
+			</Document>
+			<Document DocID="3.212454.CL4AAP4MDAKA3PY0FVUZR42XQDOCCT2CA" DocType="Message" MimeType="message/rfc822">
+				<Tags>
+					<Tag TagName="#From" TagDataType="Text" TagValue="nicholas.m.sopkin@db.com"/>
+					<Tag TagName="#To" TagDataType="Text" TagValue="Harry.Arora@enron.com"/>
+					<Tag TagName="#CC" TagDataType="Text" TagValue="steven.herrup@db.com"/>
+					<Tag TagName="#Subject" TagDataType="Text" TagValue="Re: Option settings in structured note"/>
+					<Tag TagName="#DateSent" TagDataType="DateTime" TagValue="2000-12-05T11:24:00.0+00:00"/>
+					<Tag TagName="#HasAttachments" TagDataType="Boolean" TagValue="false"/>
+					<Tag TagName="X-SDOC" TagDataType="Text" TagValue="527409"/>
+					<Tag TagName="X-ZLID" TagDataType="Text" TagValue="zl-edrm-enron-v2-arora-h-292.eml"/>
+				</Tags>
+				<Files>
+					<File FileType="Native">
+						<ExternalFile FilePath="native_000" FileName="3.212454.CL4AAP4MDAKA3PY0FVUZR42XQDOCCT2CA.eml" FileSize="1982" Hash="088791768F3A2B0B4B2168EDC32CEEC8"/>
+					</File>
+					<File FileType="Text">
+						<ExternalFile FilePath="text_000" FileName="3.212454.CL4AAP4MDAKA3PY0FVUZR42XQDOCCT2CA.txt" FileSize="1754" Hash="B5EA51EC65E89D5C619AF3EB5CFEA6B0"/>
+					</File>
+				</Files>
+				<Locations>
+					<Location>
+						<Custodian>Harry Arora&lt;harry.d.arora@enron.com&gt;</Custodian>
+						<LocationURI>arora-h\All documents</LocationURI>
+					</Location>
+				</Locations>
+			</Document>
+			<Document DocID="3.212455.GH2ES34PXXR1H4PZXJBCDWGQ10UD4WPVA" DocType="Message" MimeType="message/rfc822">
+				<Tags>
+					<Tag TagName="#From" TagDataType="Text" TagValue="Donald W Herrick"/>
+					<Tag TagName="#To" TagDataType="Text" TagValue="brianherrick@email.msn.com, HERRICEU2@tdprs.state.tx.us, RobertHerrick@bankunited.com,
+	 Kristi Demaiolo, Suresh Raghavan, Harry Arora"/>
+					<Tag TagName="#Subject" TagDataType="Text" TagValue="FW: If Santa Answered his mail..."/>
+					<Tag TagName="#DateSent" TagDataType="DateTime" TagValue="2000-12-06T10:03:00.0+00:00"/>
+					<Tag TagName="#HasAttachments" TagDataType="Boolean" TagValue="false"/>
+					<Tag TagName="X-SDOC" TagDataType="Text" TagValue="527413"/>
+					<Tag TagName="X-ZLID" TagDataType="Text" TagValue="zl-edrm-enron-v2-arora-h-294.eml"/>
+				</Tags>
+				<Files>
+					<File FileType="Native">
+						<ExternalFile FilePath="native_000" FileName="3.212455.GH2ES34PXXR1H4PZXJBCDWGQ10UD4WPVA.eml" FileSize="5114" Hash="9E1C7760E15F21C8A9120F00D933FE4C"/>
+					</File>
+					<File FileType="Text">
+						<ExternalFile FilePath="text_000" FileName="3.212455.GH2ES34PXXR1H4PZXJBCDWGQ10UD4WPVA.txt" FileSize="4890" Hash="D4DBB25D11104908096C9190DC3BA9C9"/>
+					</File>
+				</Files>
+				<Locations>
+					<Location>
+						<Custodian>Harry Arora&lt;harry.d.arora@enron.com&gt;</Custodian>
+						<LocationURI>arora-h\All documents</LocationURI>
+					</Location>
+				</Locations>
+			</Document>
+       </Documents>
+   </Batch>
+			
