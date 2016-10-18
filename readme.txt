@@ -21,7 +21,7 @@ Use Maven to import the project into your workspace.
    of emails. Requires that you pass the location of the output directories where
    you have extracted the content of the Zip files in step 1. The program uses the
    XML file in the main directory to extracts the users that were sent emails. Please
-   note that the program does validate the email address extracted.
+   note that the program does NOT validate the email address extracted.
    
    
  Resource test files are located under src/test/resources. These are small XML and TXT 
